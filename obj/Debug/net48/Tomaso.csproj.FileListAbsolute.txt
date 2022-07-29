@@ -1,0 +1,12 @@
+\\Mac\Home\Documents\GitHub\Tomaso-1\obj\Debug\net48\Tomaso.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\GitHub\Tomaso-1\obj\Debug\net48\Tomaso.Properties.Resources.resources
+\\Mac\Home\Documents\GitHub\Tomaso-1\obj\Debug\net48\Tomaso.csproj.GenerateResource.cache
+\\Mac\Home\Documents\GitHub\Tomaso-1\obj\Debug\net48\Tomaso.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\GitHub\Tomaso-1\obj\Debug\net48\Tomaso.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\GitHub\Tomaso-1\obj\Debug\net48\Tomaso.AssemblyInfo.cs
+\\Mac\Home\Documents\GitHub\Tomaso-1\obj\Debug\net48\Tomaso.csproj.CoreCompileInputs.cache
+C:\Users\sgcp\AppData\Roaming\Grasshopper\Libraries\net48\Tomaso.gha
+C:\Users\sgcp\AppData\Roaming\Grasshopper\Libraries\net48\Tomaso.pdb
+\\Mac\Home\Documents\GitHub\Tomaso-1\obj\Debug\net48\Tomaso.gha
+\\Mac\Home\Documents\GitHub\Tomaso-1\obj\Debug\net48\Tomaso.pdb
+\\Mac\Home\Documents\GitHub\Tomaso-1\obj\Debug\net48\Tomaso.csproj.CopyComplete
